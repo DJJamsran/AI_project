@@ -4,7 +4,7 @@
 <a align="left"><b>Create your own Spending Insights Advisor using LLM – it's like having a personal financial guru at your fingertips! 🚀</b></a>
 
 
-### What do I do for you?
+### Can I help you?
 <img align="top center" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/fzoM.gif" width="400"/>
 
 
