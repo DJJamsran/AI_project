@@ -5,7 +5,7 @@
 
 
 ### Can I help you?
-<img align="top center" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/fzoM.gif" width="400"/>
+<img align="center" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/fzoM.gif" width="400"/>
 
 
 ### Picture this!!🔥
