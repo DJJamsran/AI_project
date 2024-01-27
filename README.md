@@ -8,5 +8,5 @@
 <img align="top center" alt="GIF" src="https://github.com/DJJamsran/images/blob/main/fzoM.gif" width="400"/>
 
 
-### Picture this🔥
+### Picture this!!🔥
 <a align="left"><b>You casually chat with your transaction records, casually asking about your spending habits, and bam! Instant, insightful responses. Believe it or not, this isn't some futuristic daydream – it's happening right now, thanks to our innovative project. 😎💸</b></a>
