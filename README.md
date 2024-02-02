@@ -13,4 +13,4 @@
 
 ### About the Project!!🔥
 - This project used **meta-llama/llama-2-70b-chat** model through **Watsonx.ai** with **Python**
-- It utilize a data set from open source in **IBM cloud**
+- It utilizes a dataset sourced from the open source available in the **IBM Cloud**.
