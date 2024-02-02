@@ -12,4 +12,4 @@
 <a align="left"><b>You casually chat with your transaction records, casually asking about your spending habits, and bam! Instant, insightful responses. Believe it or not, this isn't some futuristic daydream – it's happening right now, thanks to our innovative project. 😎💸</b></a>
 
 ### About the Project!!🔥
-- This project used **meta-llama/llama-2-70b-chat** model through watsonx.ai with **Python**
+- This project used **meta-llama/llama-2-70b-chat** model through **Watsonx.ai** with **Python**
